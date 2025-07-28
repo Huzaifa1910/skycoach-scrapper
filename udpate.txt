@@ -1,0 +1,55 @@
+@app.route('/api/employees/<int:emp_id>/edit', methods=['PUT'])
+@jwt_required()
+def edit_employee(emp_id):
+    try:
+        current_user_id = int(get_jwt_identity())
+        db = get_db_connection()
+        cursor = db.cursor(dictionary=True)
+
+        # Get current user details
+        cursor.execute("""
+            SELECT emp_role, b_id 
+            FROM employee 
+            WHERE emp_id = %s
+        """, (current_user_id,))
+        current_user = cursor.fetchone()
+
+        if not current_user:
+            return jsonify({'error': 'User not found'}), 404
+
+        # Prepare the updates based on allowed fields
+        updates = []
+        params = []
+        allowed_fields = ['name', 'emp_role', 'b_id']  # Define the allowed fields
+        data = request.get_json()
+
+        # Collect updates for allowed fields
+        for field in allowed_fields:
+            if field in data:
+                updates.append(f"{field} = %s")
+                params.append(data[field])
+
+        # Handle project assignment (Insert or update)
+        if 'project' in data:
+            cursor.execute("""
+                INSERT INTO project_members (p_id, emp_id) 
+                VALUES (%s, %s) 
+                ON DUPLICATE KEY UPDATE p_id = %s
+            """, (data['project'], emp_id, data['project']))
+
+        if not updates and 'project' not in data:
+            return jsonify({'error': 'No valid fields to update'}), 400
+
+        if updates:
+            params.append(emp_id)
+            query = f"UPDATE employee SET {', '.join(updates)} WHERE emp_id = %s"
+            cursor.execute(query, tuple(params))
+
+        db.commit()
+
+        return jsonify({'message': 'Employee information updated successfully', 'success': True}), 200
+
+    except Exception as e:
+        db.rollback()
+        print(str(e))
+        return jsonify({'error': 'Internal server error'}), 500
