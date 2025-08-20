@@ -10750,3 +10750,6 @@ option_id,service_id,parent_option_id,option_type,option_name,option_label,optio
 10729,267,,checkbox,choose_extras,Choose Extras,,0.0,,,,0,8,1,2025-08-19 09:42:12,2025-08-19 09:42:12
 10730,267,10729,checkbox,choose_extras_complete_the_main_story,Complete the Main Story,14,18.0,,,,0,9,1,2025-08-19 09:42:12,2025-08-19 09:42:12
 10731,267,10729,checkbox,choose_extras_complete_all_strongholds,Complete All Strongholds,13,35.0,,,,0,10,1,2025-08-19 09:42:12,2025-08-19 09:42:12
+10732,1,,checkbox,choose_extras,Choose Extras,,0.00,,,,0,1,1,2025-08-20 15:03:03,2025-08-20 15:03:03
+10733,1,10732,checkbox,choose_extras_add_whirling_ovation_exotic,Add Whirling Ovation Exotic,1,62.37,,,,0,2,1,2025-08-20 15:03:03,2025-08-20 15:03:03
+10734,1,10732,checkbox,choose_extras_the_edge_of_fate_campaign_-_legendary,The Edge of Fate Campaign - Legendary,2,18.63,,,,0,3,1,2025-08-20 15:03:03,2025-08-20 15:03:03
