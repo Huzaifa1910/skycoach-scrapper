@@ -1,44 +1,40 @@
-Game Name,Category,Link,Subcategory
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids,
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/salvations-edge,Salvation's Edge
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/vault-of-glass,Vault of Glass
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/crotas-end,Crota's End
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/the-root-of-nightmares,The Root of Nightmares
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/kings-fall,King's Fall
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/last-wish,Last Wish
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/deep-stone-crypt,Deep Stone Crypt
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/garden-of-salvation,Garden of Salvation
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/vow-of-the-disciple,Vow of the Disciple
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/leviathan,Leviathan
-Destiny 2,Raids,https://skycoach.gg/destiny-boost/raids/crown-of-sorrow,Crown of Sorrow
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons,
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/sundered-doctrine,Sundered Doctrine
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/vespers-host,Vesper's Host
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/warlords-ruin,Warlord's Ruin
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/ghosts-of-the-deep,Ghosts of the Deep
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/spire-of-the-watcher,Spire of the Watcher
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/grasp-of-avarice,Grasp of Avarice
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/duality,Duality
-Destiny 2,Dungeons,https://skycoach.gg/destiny-boost/dungeons/prophecy,Prophecy
-Destiny 2,Trials of Osiris & PvP,https://skycoach.gg/destiny-boost/pvp,
-Destiny 2,Trials of Osiris & PvP,https://skycoach.gg/destiny-boost/pvp/trials-of-osiris,Trials Of Osiris
-Destiny 2,Trials of Osiris & PvP,https://skycoach.gg/destiny-boost/pvp/iron-banner,Iron Banner
-Destiny 2,Trials of Osiris & PvP,https://skycoach.gg/destiny-boost/pvp/glory-points,Survival
-Destiny 2,Exotic Items,https://skycoach.gg/destiny-boost/exotics,
-Destiny 2,Exotic Items,https://skycoach.gg/destiny-boost/exotics/weapons,Exotic Weapons
-Destiny 2,Exotic Items,https://skycoach.gg/destiny-boost/exotics/catalyst,Exotic Catalysts
-Destiny 2,Exotic Items,https://skycoach.gg/destiny-boost/exotics/exotic-armor,Exotic Armor
-Destiny 2,Exotic Items,https://skycoach.gg/destiny-boost/exotics/vaulted,Vaulted
-Destiny 2,Legendary Weapons,https://skycoach.gg/destiny-boost/legendary-weapons,
-Destiny 2,Legendary Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/dungeon-weapons,Dungeon Weapons
-Destiny 2,Legendary Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/raid-weapons,Raid Weapons
-Destiny 2,Legendary Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/pvp-weapons,PvP Weapons
-Destiny 2,Legendary Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/pve-weapons,PvE Weapons
-Destiny 2,Bundles,https://skycoach.gg/destiny-boost/bundles,
-Destiny 2,Seals & Triumphs,https://skycoach.gg/destiny-boost/seals,
-Destiny 2,Leveling,https://skycoach.gg/destiny-boost/leveling,
-Destiny 2,The Edge of Fate,https://skycoach.gg/destiny-boost/the-edge-of-fate,
-Destiny 2,The Final Shape,https://skycoach.gg/destiny-boost/the-final-shape,
-Destiny 2,The Final Shape,https://skycoach.gg/destiny-boost/the-final-shape/episode-heresy,Episode: Heresy
-Destiny 2,The Final Shape,https://skycoach.gg/destiny-boost/the-final-shape/episode-revenant,Episode: Revenant
-Destiny 2,The Final Shape,https://skycoach.gg/destiny-boost/the-final-shape/episode-echoes,Episode: Echoes
+Game Name,Category,Subcategory,Link
+Destiny 2,The Edge of Fate,,https://skycoach.gg/destiny-boost/the-edge-of-fate
+Destiny 2,Raids,,https://skycoach.gg/destiny-boost/raids
+Destiny 2,Raids,The Desert Perpetual,https://skycoach.gg/destiny-boost/raids/the-desert-perpetual
+Destiny 2,Raids,Salvation's Edge,https://skycoach.gg/destiny-boost/raids/salvations-edge
+Destiny 2,Raids,Vault of Glass,https://skycoach.gg/destiny-boost/raids/vault-of-glass
+Destiny 2,Raids,Crota's End,https://skycoach.gg/destiny-boost/raids/crotas-end
+Destiny 2,Raids,The Root of Nightmares,https://skycoach.gg/destiny-boost/raids/the-root-of-nightmares
+Destiny 2,Raids,King's Fall,https://skycoach.gg/destiny-boost/raids/kings-fall
+Destiny 2,Raids,Last Wish,https://skycoach.gg/destiny-boost/raids/last-wish
+Destiny 2,Raids,Deep Stone Crypt,https://skycoach.gg/destiny-boost/raids/deep-stone-crypt
+Destiny 2,Raids,Garden of Salvation,https://skycoach.gg/destiny-boost/raids/garden-of-salvation
+Destiny 2,Raids,Vow of the Disciple,https://skycoach.gg/destiny-boost/raids/vow-of-the-disciple
+Destiny 2,Dungeons,,https://skycoach.gg/destiny-boost/dungeons
+Destiny 2,Dungeons,Sundered Doctrine,https://skycoach.gg/destiny-boost/dungeons/sundered-doctrine
+Destiny 2,Dungeons,Vesper's Host,https://skycoach.gg/destiny-boost/dungeons/vespers-host
+Destiny 2,Dungeons,Warlord's Ruin,https://skycoach.gg/destiny-boost/dungeons/warlords-ruin
+Destiny 2,Dungeons,Ghosts of the Deep,https://skycoach.gg/destiny-boost/dungeons/ghosts-of-the-deep
+Destiny 2,Dungeons,Spire of the Watcher,https://skycoach.gg/destiny-boost/dungeons/spire-of-the-watcher
+Destiny 2,Dungeons,Grasp of Avarice,https://skycoach.gg/destiny-boost/dungeons/grasp-of-avarice
+Destiny 2,Dungeons,Duality,https://skycoach.gg/destiny-boost/dungeons/duality
+Destiny 2,Dungeons,Prophecy,https://skycoach.gg/destiny-boost/dungeons/prophecy
+Destiny 2,Trials of Osiris & PvP,,https://skycoach.gg/destiny-boost/pvp
+Destiny 2,Trials of Osiris & PvP,Trials Of Osiris,https://skycoach.gg/destiny-boost/pvp/trials-of-osiris
+Destiny 2,Trials of Osiris & PvP,Iron Banner,https://skycoach.gg/destiny-boost/pvp/iron-banner
+Destiny 2,Trials of Osiris & PvP,Survival,https://skycoach.gg/destiny-boost/pvp/glory-points
+Destiny 2,Portal,,https://skycoach.gg/destiny-boost/portal
+Destiny 2,Exotic Items,,https://skycoach.gg/destiny-boost/exotics
+Destiny 2,Exotic Items,Exotic Weapons,https://skycoach.gg/destiny-boost/exotics/weapons
+Destiny 2,Exotic Items,Exotic Catalysts,https://skycoach.gg/destiny-boost/exotics/catalyst
+Destiny 2,Exotic Items,Exotic Armor,https://skycoach.gg/destiny-boost/exotics/exotic-armor
+Destiny 2,Exotic Items,Vaulted,https://skycoach.gg/destiny-boost/exotics/vaulted
+Destiny 2,Legendary Weapons,,https://skycoach.gg/destiny-boost/legendary-weapons
+Destiny 2,Legendary Weapons,Dungeon Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/dungeon-weapons
+Destiny 2,Legendary Weapons,Raid Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/raid-weapons
+Destiny 2,Legendary Weapons,PvP Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/pvp-weapons
+Destiny 2,Legendary Weapons,PvE Weapons,https://skycoach.gg/destiny-boost/legendary-weapons/pve-weapons
+Destiny 2,Seals & Triumphs,,https://skycoach.gg/destiny-boost/seals
+Destiny 2,Leveling,,https://skycoach.gg/destiny-boost/leveling
+Destiny 2,The Final Shape,,https://skycoach.gg/destiny-boost/the-final-shape
